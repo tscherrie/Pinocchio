@@ -130,5 +130,6 @@ dmypy.json
 
 # Other
 .DS_Store
-.old_llama/
 interaction_layer/MineDojo/
+.gpt-protocol.txt
+.ideas.txt
